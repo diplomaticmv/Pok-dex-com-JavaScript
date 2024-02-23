@@ -1,4 +1,4 @@
-POKÉDEX
+## POKÉDEX
 
 Bem-vindo à Pokédex desenvolvida como parte da Digital Innovation One! Este projenos permite explorar conceitos avançados de JavaScript e integração de APIs para criar uma interface interativa que exibe informações básicas sobre os Pokémon da 1ª geração.
 
